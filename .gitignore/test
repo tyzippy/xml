@@ -8,7 +8,7 @@
             <address>123 Anywhere St</address>
             <carType>No Car</carType>
             <phone>18001111111</phone>
-            <faveFood>Anything that is edible</favFood>
+            <faveFood>Anything that is edible</faveFood>
 
         </george>
         <paul height="5 8" weight="210" hairColor="Red">
@@ -16,7 +16,7 @@
             <address>125 Anywhere St</address>
             <carType>Prius</carType>
             <phone>18002222222</phone>
-            <faveFood>Pizza</favFood>
+            <faveFood>Pizza</faveFood>
 
         </paul>
 
@@ -25,7 +25,7 @@
             <address>127 Anywhere St</address>
             <carType>Camaro</carType>
             <phone>18003333333</phone>
-            <faveFood>Tacos</favFood>
+            <faveFood>Tacos</faveFood>
 
         </tj>
 

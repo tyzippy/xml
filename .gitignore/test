@@ -1,0 +1,40 @@
+
+
+<people>
+
+    <work>
+
+        <george height="5 11" weight="320" hairColor="No Hair">
+            <address>123 Anywhere St</address>
+            <carType>No Car</carType>
+            <phone>18001111111</phone>
+            <faveFood>Anything that is edible</favFood>
+
+        </george>
+        <paul height="5 8" weight="210" hairColor="Red">
+
+            <address>125 Anywhere St</address>
+            <carType>Prius</carType>
+            <phone>18002222222</phone>
+            <faveFood>Pizza</favFood>
+
+        </paul>
+
+        <tj height="5 9" weight=200" hairColor="Brown">
+
+            <address>127 Anywhere St</address>
+            <carType>Camaro</carType>
+            <phone>18003333333</phone>
+            <faveFood>Tacos</favFood>
+
+        </tj>
+
+    </work>
+
+    <home>
+
+    </home>
+
+
+
+<?people>
